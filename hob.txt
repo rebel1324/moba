@@ -1,0 +1,5 @@
+"hob"
+{
+	"base"		"base"
+	"title"		"Heroes of Battle"
+}
